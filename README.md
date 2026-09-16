@@ -1,33 +1,53 @@
-# Hey there, I'm JuanC (proudly from Cali, Colombia) 👋🏼
+# Hey there, I'm JuanCamilo (JC) 👋🏼
 
-**Systems Thinker • Full Stack Developer • AI & Data Tinkerer**
+### Full Stack Developer • Systems Thinker • Industrial Engineer
+📍 *Cali, Colombia | Bilingual (Spanish / English B2-C1)*
 
-I build software where process optimization, data-driven logic, and applied AI intersect. My background bridges **Industrial Engineering**, technical foundations in **Mechatronics**, and dual bootcamp training in **Data Analytics** and **Full Stack Development**. That background gives me a distinct perspective: I look at software through the lens of scalable architecture, business metrics, and frictionless user experiences.
+I build reliable web software where process optimization, transactional data integrity, and applied AI intersect. With an 8+ year background in **Industrial Engineering** and operations consulting, combined with deep full-stack engineering training, I approach software architecture through a distinct lens: reducing system bottlenecks, preventing concurrency failures, and delivering clean, accessible user interfaces.
 
-Beyond code, I help ideas scale through digital operations and brand strategy at **Co|Creemos Colectivo**.
+Beyond code, I structure operating models and brand strategy at **Co|Creemos Colectivo**.
 
 ---
 
 ### 🛠️ Tech Stack & Capabilities
 
-* **Core & Backend:** JavaScript (ES6+), Node.js, Express, PostgreSQL, RESTful APIs, OpenAPI/Swagger.
-* **Frontend & Architecture:** HTML5, CSS3, Vanilla JS (SPA routing & component patterns), UI design tokens.
-* **Data & AI:** Data Analytics & Quantitative Foundations, Google Gemini API, Anthropic API, Python tooling, Prompt Architecture.
-* **Quality & Deployment:** Vitest, Supertest, Git/GitHub, Railway, Vercel.
+- **Frontend & UI/UX:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Responsive Design, Web Accessibility (WCAG AA/AAA).
+- **Backend & Persistence:** Node.js, Express.js, PostgreSQL (Relational Data Modeling & ACID transactions), RESTful APIs, OpenAPI/Swagger.
+- **Cloud, DevOps & Tooling:** AWS (S3, SES), Firebase, Git/GitHub Flow, CI/CD (Vercel, Railway).
+- **Quality & Testing:** Automated Integration & Unit Testing with Jest, Supertest, and Vitest.
+- **Data & Applied AI:** Python (Pandas), Google Gemini API integration, prompt sanitization defenses, and analytics-informed database design.
 
 ---
 
-### 🚀 What I'm Up To
+### 🚀 Featured Engineering Projects
 
-- 🔭 **Building:** Modern web applications, automated workflows, and practical tools powered by LLMs.
-- 📊 **Dev + Data Lens:** Combining full-stack engineering with data analytics to design databases and APIs that are both technically clean and analytically meaningful.
-- 💡 **Co|Creemos Colectivo:** Designing operating models, business diagnostics, and tech setups for growing ventures.
-- 💬 **Ask me about:** Systems design, data-informed workflows, Notion architectures, AI prompt tuning, or why music curation hits differently through a wired IEM setup.
-- ⚡ **Fun fact:** I can map an end-to-end supply chain, write an analytical data query, debug an Express route, and curate a genre-fluid playlist—all in the same afternoon.
+- **[AXORA — FinTech Multi-Currency Platform](https://github.com/axoratechgroup/axora-frontend)**
+  *Multi-currency digital wallet built in an agile squad of 3 engineers.*
+  - Engineered the ACID-compliant transactional engine in PostgreSQL with ordered row-level locking to prevent race conditions and deadlocks under concurrent transfers.
+  - Implemented the Transactional Outbox pattern for asynchronous email delivery via AWS SES and hardened the Gemini AI assistant against prompt injection.
+  - Built the React + TypeScript SPA with code-splitting (`React.lazy`) and accessible WCAG components.
+
+- **[Geekeame Store — Full Stack E-commerce](https://github.com/DonJuanC/geekeame-store)**
+  *End-to-end commerce platform with dynamic catalog, persistent cart, and admin inventory control.*
+  - React, TypeScript, Firebase Auth/Firestore, and cloud multimedia storage via AWS S3 deployed on Vercel.
+
+- **[MiniBlog API — Relational Backend Service](https://github.com/DonJuanC/miniblog-api)**
+  *Decoupled 3-tier REST architecture (13 endpoints) with PostgreSQL data integrity.*
+  - Parameterized queries against SQL injection, Jest + Supertest integration suites, and OpenAPI/Swagger documentation.
+
+---
+
+### ⚡ What Drives My Work
+
+- 🔭 **Building:** Resilient web architectures, automated workflows, and human-centric software.
+- 🧠 **The 70/30 Edge:** Bridging business requirements and software implementation to write code that scales with operational sense.
+- 💬 **Ask me about:** Concurrency control in relational databases, Notion operating systems, applied AI safeguards, or why music curation hits differently through a dedicated wired IEM setup.
+- 🎧 **Fun fact:** I can map an end-to-end supply chain, write an analytical SQL query, debug an Express route, and curate a genre-fluid playlist—all in the same afternoon.
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancamilo-castellanos-uribe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cocreemoscolectivo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/juancamilo-castellanos-uribe](https://www.linkedin.com/in/juancamilo-castellanos-uribe/)
+- **Email:** [juancamilo.castellanos.u@gmail.com](mailto:cocreemoscolectivo@gmail.com)
+- **Portfolio / Live Demos:** Check out the pinned repositories below 👇
