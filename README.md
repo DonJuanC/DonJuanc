@@ -49,5 +49,5 @@ Beyond code, I structure operating models and brand strategy at **Co|Creemos Col
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/juancamilo-castellanos-uribe](https://www.linkedin.com/in/juancamilo-castellanos-uribe/)
-- **Email:** [juancamilo.castellanos.u@gmail.com](mailto:cocreemoscolectivo@gmail.com)
+- **Email:** [cocreemoscolectivo@gmail.com](mailto:cocreemoscolectivo@gmail.com)
 - **Portfolio / Live Demos:** Check out the pinned repositories below 👇
