@@ -35,6 +35,16 @@ Beyond code, I structure operating models and brand strategy at **Co|Creemos Col
   *Decoupled 3-tier REST architecture (13 endpoints) with PostgreSQL data integrity.*
   - Parameterized queries against SQL injection, Jest + Supertest integration suites, and OpenAPI/Swagger documentation.
 
+ ---
+
+### 🧙‍♂️ Featured Project
+
+#### [The Middle-earth Chat](https://github.com/DonJuanC) — *Real-Time Middle-earth Chat Engine*
+A passion project blending full-stack engineering with Tolkien’s lore. I built an interactive real-time messaging engine where users can step into Middle-earth and communicate across themed rooms and role-based channels. 
+
+* **Under the hood:** Architected bidirectional event-driven synchronization, implemented strict end-to-end typing with TypeScript, and established robust client/server payload validation with data sanitization to prevent event collisions.
+* **The vibe:** Beyond the architecture, it was pure fun to bring classic characters to life in an immersive UI, proving that solid engineering practices and nerd culture make a killer fellowship.
+
 ---
 
 ### ⚡ What Drives My Work
