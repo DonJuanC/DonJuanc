@@ -39,7 +39,7 @@ Beyond code, I structure operating models and brand strategy at **Co|Creemos Col
 
 ### 🧙‍♂️ Featured Project
 
-#### [The Middle-earth Chat](https://github.com/DonJuanC/lotr-chat))** — *Real-Time Middle-earth Chat Engine*
+#### [The Middle-earth Chat](https://github.com/DonJuanC/lotr-chat) — *Real-Time Middle-earth Chat Engine*
 A passion project blending full-stack engineering with Tolkien’s lore. I built an interactive real-time messaging engine where users can step into Middle-earth and communicate across themed rooms and role-based channels. 
 
 * **Under the hood:** Architected bidirectional event-driven synchronization, implemented strict end-to-end typing with TypeScript, and established robust client/server payload validation with data sanitization to prevent event collisions.
